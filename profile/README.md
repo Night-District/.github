@@ -1,4 +1,4 @@
-![Night District Cover Photo](https://github.com/Night-District/.github/assets/125632225/b526c6f0-9828-44fe-aed3-8608946e461b)
+![Night District Cover Photo](assets/Night District Cover Photo.png)
 
 # Night District Overview
 
