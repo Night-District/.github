@@ -16,11 +16,11 @@ Our vision is a future where Night District is the premier destination for unfor
 
 ## Key Features
 
-`Discover Venues` Explore bars, nightclubs, and lounges near you with detailed descriptions and reviews.
-`Order Drinks` Skip the line and order your favorite drinks directly from your phone.
-`Event Listings` Stay updated on upcoming events and parties happening in your area.
-`Social Integration` Connect with friends, share your experiences, and plan your night out together.
-`Philanthropy Initiatives` Support local charities and causes through our partnership programs.
+- `Discover Venues` Explore bars, nightclubs, and lounges near you with detailed descriptions and reviews.
+- `Order Drinks` Skip the line and order your favorite drinks directly from your phone.
+- `Event Listings` Stay updated on upcoming events and parties happening in your area.
+- `Social Integration` Connect with friends, share your experiences, and plan your night out together.
+- `Philanthropy Initiatives` Support local charities and causes through our partnership programs.
 
 ## How It Works
 
