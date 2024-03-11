@@ -32,10 +32,10 @@ Interested in partnering with Night District or joining our team? We're always l
 ## Stay Connected
 Stay up-to-date with the latest news, updates, and events from Night District by following us on social media:
 
-[Instagram Page](https://www.instagram.com/nightdistrict_/)
-[Twitter Page](https://twitter.com/night_district_)
-[Facebook Page](https://www.facebook.com/NightDistrictLLC)
-[LinkedIn Page](https://www.linkedin.com/company/101816126/admin/feed/posts/)
+- [Instagram Page](https://www.instagram.com/nightdistrict_/)
+- [Twitter Page](https://twitter.com/night_district_)
+- [Facebook Page](https://www.facebook.com/NightDistrictLLC)
+- [LinkedIn Page](https://www.linkedin.com/company/101816126/admin/feed/posts/)
 
 ## Help & Support
 If you have any questions, feedback, or technical issues, please don't hesitate to contact our support team at support@nightdistrict.co. We're here to help ensure you have the best possible experience with Night District.
