@@ -12,7 +12,11 @@ To give the world the best nightlife possible.
 
 ## Vision Statement
 
-Our vision is a future where Night District is the premier destination for unforgettable nightlife experiences where users can seamlessly order their favorite drinks, navigate the nightlife scene, connect with friends, and discover new venues with ease. Through innovation, collaboration, and dedication to excellence, we strive to continually enhance the way people experience and enjoy nightlife.
+Night District seeks to enhance the way people explore, discover, and connect by bringing the future of nightlife to the present.
+
+## Our Promise
+
+Through innovation, collaboration, and dedication to excellence, we strive to continually enhance the way people experience and enjoy nightlife.
 
 ## Key Features
 
