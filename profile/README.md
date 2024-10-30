@@ -1,4 +1,4 @@
-![Night District Cover Photo](assets/night_district_cover_photo2.png)
+[Night District Cover Photo](assets/night_district_cover_photo2.png)
 
 # Night District Overview
 
